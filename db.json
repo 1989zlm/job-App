@@ -1,0 +1,121 @@
+{
+  "jobs": [
+    {
+      "id": "7d4b8f91-cdf8-4017-9aef-19734b01247c",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": "2.03.2024"
+    },
+    {
+      "id": "dfa3f1c6-8533-4cac-873c-64479ecec34a",
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "2.03.2022"
+    },
+    {
+      "id": "4cc0207b-a8d9-46c5-bb54-a306c299c13c",
+      "position": "Frontend",
+      "company": "Future Software UAE",
+      "location": "Dubai",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "05.03.2024"
+    },
+    {
+      "id": "793648e8-932f-45cc-a141-da40cde58bbb",
+      "position": "Frontend",
+      "company": "Future Software UAE",
+      "location": "Dubai",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "05.03.2024"
+    },
+    {
+      "id": "160d90d2-6872-4698-8f51-9201546bd728",
+      "position": "Frontend",
+      "company": "Future Software UAE",
+      "location": "Dubai",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "05.03.2024"
+    },
+    {
+      "id": "0b89c6df-1562-4050-86aa-66de4c756f64",
+      "position": "Frontend",
+      "company": "Future Software UAE",
+      "location": "Dubai",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "05.03.2024"
+    },
+    {
+      "id": "e63acfa6-f282-481a-9798-fd4eda3b1c60",
+      "position": "Frontend",
+      "company": "Future Software UAE",
+      "location": "Dubai",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "05.03.2024"
+    },
+    {
+      "id": "94696d01-e9e8-4159-a178-05dbc04359d9",
+      "position": "Backend",
+      "company": "IPERA MEA",
+      "location": "Dubai",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": "05.03.2024"
+    },
+    {
+      "id": "b31b6a99-c80a-4a2e-afb4-a5424b2bebcd",
+      "position": "Frontend",
+      "company": "Future Software UAE",
+      "location": "Dubai",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "06.03.2024"
+    },
+    {
+      "id": "4add766e-63af-4425-a391-0e81ff80e7f5",
+      "position": "Backend",
+      "company": "LEGO",
+      "location": "Türkiye",
+      "status": "Mülakat",
+      "type": "Staj",
+      "date": "07.03.2024"
+    },
+    {
+      "id": "6348d336-1d31-452e-8e29-370f4ef2b0d2",
+      "position": "Product Manager",
+      "company": "tesla",
+      "location": "Türkiye",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": "08.03.2024"
+    },
+    {
+      "id": "a7a11ddd-4fcb-44a6-beff-e6cc0de9aeba",
+      "position": "23r32",
+      "company": "Microsoft",
+      "location": "Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "08.03.2024"
+    },
+    {
+      "id": "4902dc30-69fa-4cf5-ba50-4d6492282671",
+      "position": "React Native",
+      "company": "Google",
+      "location": "Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "09.03.2024"
+    }
+  ]
+}
